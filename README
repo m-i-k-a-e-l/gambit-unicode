@@ -7,7 +7,7 @@ Enables Gambit Scheme with Unicode handling features.
 Runs out of the box on vanilla Gambit and on Black Hole.
 
 The Gambit-specific code and distribution:
-Copyright (C) 2010-2012 Mikael More
+Copyright (C) 2010-2012 Mikael
 
 The unicode-data.scm generator and Bigloo unicode library this library was inspired by,
 found in the bigloo-unicode directory:
